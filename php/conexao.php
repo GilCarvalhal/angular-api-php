@@ -1,4 +1,4 @@
-<?<php 
+<?php
 
 // Variáveis de acesso
 $url = "localhost";
